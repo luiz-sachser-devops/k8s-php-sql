@@ -7,6 +7,8 @@ _[Kubernetes in Docker](https://docs.docker.com/desktop/kubernetes/)_.
 
 ### Architecture
 
+![Architecture](https://github.com/luiz-sachser-devops/k8s-php-sql/blob/main/architecture.png?raw=true)
+
 1. Project is divided into an isolated Frontend and backend running inside a Kubernetes cluster;
 
 2. This example assumes a GCP cluster running;
